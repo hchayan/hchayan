@@ -1,7 +1,7 @@
 # Chayan
 Hi! I'm Chayan 👏<br>
 I'm a college senior student 📙,<br>
-studying and working on Frontend Programming 💻💻💻!
+Studying and Working on Frontend Programming 💻💻💻!
 <br>
 
 ### 🚩 Overview
