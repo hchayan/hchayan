@@ -1,6 +1,6 @@
 # Chayan
 Hi! I'm Chayan 👏<br>
-I'm a college senior student 📙<br>
+I'm college senior student majoring in Computer Science 📙<br>
 Studying and Working on Frontend Programming 💻💻💻!
 <br>
 
