@@ -1,6 +1,7 @@
 # Chayan
 Hi! I'm Chayan 👏<br>
-Studying and Working on Frontend Programming 💻💻💻!
+I study and work as Frontend Programmer! 💻💻💻! <br>
+
 <br>
 
 ### 🚩 Overview
