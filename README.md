@@ -1,4 +1,3 @@
-# Chayan
 Hi! I'm Chayan, thx for visiting my github! 👏<br>
 I'm studying and working as Frontend Programmer in South Korea 💻💻💻! <br>
 
