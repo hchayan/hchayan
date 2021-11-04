@@ -1,16 +1,13 @@
-Hi! I'm Chayan, thx for visiting my github! 👏<br>
-I'm studying and working as Frontend Programmer in South Korea 💻💻💻! <br>
+![Chayan Han](https://capsule-render.vercel.app/api?type=waving&height=300&text=Chayan_Han&fontAlign=50&fontAlignY=40&color=0:a2e5d0,100:6a94ac&fontColor=ffffff&animation=fadeIn)
 
-<br>
 
-### 🚩 Overview
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hchayan)](https://github.com/anuraghazra/github-readme-stats)
-<br>
 
-<!--
-### 🚩 skill stacks
-<img alt="" src="https://img.shields.io/badge/-javascript-yellow?logo=javascript&logoColor=white">-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hchayan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hchayan" />
+</p>
 
+<p align="center">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hchayan&layout=compact&hide=python,jav" />
+</p>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
