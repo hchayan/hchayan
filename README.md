@@ -4,9 +4,7 @@
 ## 😊 안녕하세요!
 프론트엔드 개발자 <b>한창희</b>입니다.   <br />
 책임감을 가지고 함께 성장하는 과정을 디딤돌로 삼을 수 있는 사람이 되고자 합니다. <br />
-| <a href="https://www.chayan.io/about" target="_blank">
-   더 알아보기
-</a> | 
+ | 
 <a href="https://blog.chayan.io/notice/2" target="_blank">
    블로그 보러가기
 </a> |
