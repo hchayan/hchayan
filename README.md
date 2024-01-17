@@ -3,10 +3,6 @@
 
 ## 😊 안녕하세요!
 프론트엔드 개발자 <b>한창희</b>입니다.   <br />
- | 
-<a href="https://blog.chayan.io/notice/2" target="_blank">
-   블로그 보러가기
-</a> |
 
 <br /><br />
 
