@@ -7,13 +7,6 @@
 <br /><br />
 
 
-
-
-
-<p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hchayan" />
-</p>
-
 <p align="center">
    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hchayan&layout=compact&hide=python,jav" />
 </p>
